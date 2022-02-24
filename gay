@@ -6,7 +6,7 @@ _G.AimKey =  (  "p"  )
 
 
 --[[
-	Do not edit anything under this.
+	Do not edit anything under this. yes
 ]]
 
 local SilentAim = true
